@@ -10,3 +10,5 @@ Se utilizo la Api del LocalStorage para guardar los datos.
 * UseReducer
 * UseContext
 
+Desplegado en la plataforma de _Netlify_.
+Página: [Click aquí](https://react-shop-alessandro.netlify.app)
